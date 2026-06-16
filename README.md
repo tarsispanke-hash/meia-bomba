@@ -18,7 +18,7 @@ A proposta contempla práticas de **Engenharia de Software**, **Gestão Ágil**,
 ## 👥 Integrantes
 - Mateus Daniel
 - Guilherme R. Palharini
-- TARCIS (nome completo n sei)
+- Társis Moisés Scheffler Panke
 - Kevin Adiel da Silva
 
 ---
