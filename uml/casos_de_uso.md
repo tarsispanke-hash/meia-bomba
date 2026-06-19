@@ -8,11 +8,11 @@
 4 - Professor define visibilidade (público ou privado).  
 5 - Professor manda convite e envia a sala via link para Aluno. 
 6 - Aluno acessa a sala via link e aceita convite de Professor.  
-7 - Professor cria/envia anúncios (atividades, testes, provas, simulados, eventos).  
+7 - Professor cria e envia anúncios (atividades, testes, provas, simulados, eventos).  
 8 - Professor define permissões adicionais (entregas atrasadas).  
 9 - Professor define data/hora dos anúncios.  
 10 - Aluno entrega atividade no prazo estipulado.  
-11 - Professor avalia/registra atividade.  
+11 - Professor avalia e registra atividade.  
 12 - Aluno envia mensagens (privadas ou públicas) para Professor (denúnciar problemas, feedback).  
 
 #### Extensões:
