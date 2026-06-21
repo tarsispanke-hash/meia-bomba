@@ -40,9 +40,9 @@ A arquitetura de microserviços é voltada para sistemas que necessitam de alta 
 * Maior custo de infraestrutura
 * Comunicação entre serviços mais complexa
 
-Para o estágio atual do projeto, sua implementação seria prematura, pois aumentaria significativamente o tempo de desenvolvimento do MVP.
+Para o estágio atual do projeto, sua Publish-Subscribeimplementação seria prematura, pois aumentaria significativamente o tempo de desenvolvimento do MVP.
 
-## 3. Arquitetura Publish-Subscribe
+## 3. Arquitetura 
 
 O modelo Publish-Subscribe é baseado na comunicação por eventos. Componentes publicam eventos e outros componentes os consomem sem depender diretamente uns dos outros.
 
