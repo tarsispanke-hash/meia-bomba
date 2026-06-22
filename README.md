@@ -30,6 +30,8 @@ No desenvolvimento do sistema, foi colocado em prática métodos de **Gestão Á
 
 ## 📂 Estrutura do Repositório
 ```
+apresentacao/
+  └── canva.md
 bpmn/
   └── diagrama_bpmn.md
 c4/
@@ -44,5 +46,3 @@ docs/
   ├── documentacao_requisitos.md
   ├── documentacao_user-stories.md
   └── documentacao_visao-produto.md
-apresentacao/
-  └── canva.md
