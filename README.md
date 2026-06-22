@@ -29,23 +29,20 @@ No desenvolvimento do sistema, foi colocado em prática métodos de **Gestão Á
 ---
 
 ## 📂 Estrutura do Repositório
-```plaintext
-docs/
-  ├── visao-produto.md
-  ├── stakeholders.md
-  ├── regras-negocio.md
-  ├── user-stories.md
-  ├── mvp.md
-  ├── arquitetura.md
-  └── sprint.md
+```
 bpmn/
-  └── bpmn.md
-  └── diagrama-bpmn.md
-uml/
-  ├── casos-de-uso.md
-  └── diagrama-casos-de-uso.md
+  └── diagrama_bpmn.md
 c4/
-  ├── c4.md
-  └── diagrama-c4.md
+  └── diagrama_c4.md
+casos_de_uso/
+  └── diagrama_casos-de-uso.md
+docs/
+  ├── documentacao_arquitetura.md
+  ├── documentacao_casos-de-uso.md
+  ├── documentacao_mvp.md
+  ├── documentacao_regras-de-negocio.md
+  ├── documentacao_requisitos.md
+  ├── documentacao_user-stories.md
+  └── documentacao_visao-produto.md
 apresentacao/
   └── canva.md
