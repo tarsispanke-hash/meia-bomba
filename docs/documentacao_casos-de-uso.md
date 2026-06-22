@@ -2,7 +2,7 @@
 ### Atores: Aluno & Professor
 
 #### Fluxo normal:
-1 - <ins>Professor acessa o sistema.</ins>   
+1 - <ins>Professor acessa o sistema.</ins>  
 2 - Professor cria sala (matéria, sala, turma).  
 3 - Professor pede email de Aluno.  
 4 - Aluno manda email para Professor.  
@@ -10,7 +10,7 @@
 6 - Professor define visibilidade (público ou privado).  
 7 - Professor publica a sala.  
 8 - Professor manda convite para Aluno.  
-9 - Aluno acessa a sala.  
+9 - Aluno acessa a sala via link no gmail.  
 10 - Aluno aceita convite de Professor.  
 11 - Professor cria post (atividades, testes, provas, simulados, eventos).  
 12 - Professor define permissões adicionais (entregas atrasadas).  
@@ -21,7 +21,7 @@
 17 - Aluno envia mensagens (públicas ou privadas) para Professor (relatar problemas, feedback).  
 
 #### Extensões:
-5a: Se não definir permissões, sistema assume modo leitor.  
-6a: Se não definir visibilidade, sistema assume modo público.  
-9a: Se aluno não conseguir acessar, sala pode estar privada sem nome incluído.  
-12a: Se aluno não entregar no prazo, sistema permite entrega atrasada se professor habilitou em permissões adicionais.  
+5a: Se professor não definir permissões, sistema assume modo leitor.  
+6a: Se professor não definir visibilidade, sistema assume modo público.  
+9a: Se aluno não conseguir acessar, sala pode estar privada sem nome incluído.   
+15a: Se aluno não entregar no prazo, sistema permite entrega atrasada se professor habilitou em 12a.  
