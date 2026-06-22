@@ -1,9 +1,9 @@
 # 📚 Sistema de Gestão de Sala de Aula Online
 
-## 📌 Visão Geral
-Este projeto foi desenvolvido como parte da disciplina **Modelagem e Projetos em Engenharia de Software**, com o objetivo de conceber, modelar e justificar tecnicamente uma solução de software para gestão de sala de aula online, semelhante ao Google Classroom.
+## 📌 Visão geral
+Este projeto foi desenvolvido como parte da disciplina **Modelagem e Projetos em Engenharia de Software**, com o objetivo de apresentar, modelar e justificar tecnicamente uma solução de software para gestão de sala de aula online, semelhante ao Google Classroom.
 
-No desenvolvimento do sistema, foi colocado em prática métodos de **Gestão Ágil**, **Modelagem de Processos**, **Arquitetura de Software** e uso de ferramentas colaborativas como **GitHub** e **Kanban**.
+No desenvolvimento do sistema, foi colocado em prática o uso de um modelo para as etapas e os processos com a utilização da **metodologia ágil** usando Kanban, e também, o uso da modelagem para documentação e o uso de diagramas como bpmn, c4 e os casos de uso do UML.
 
 ---
 
@@ -28,7 +28,7 @@ No desenvolvimento do sistema, foi colocado em prática métodos de **Gestão Á
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📂 Estrutura repositório
 ```
 apresentacao/
   └── canva.md
